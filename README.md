@@ -294,10 +294,6 @@ Open: dashboard/churn_dashboard.html  (any browser)
 
 ---
 
-## 📬 Connect
-
-**Avijeet Tiwari**
-[![GitHub](https://img.shields.io/badge/GitHub-AvijeetTiwari3-181717?style=flat&logo=github)](https://github.com/AvijeetTiwari3)
 
 ---
 
