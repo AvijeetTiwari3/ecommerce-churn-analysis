@@ -295,8 +295,6 @@ Open: dashboard/churn_dashboard.html  (any browser)
 ---
 
 
----
 
-<div align="center">
-⭐ If this project helped you, please give it a star!
-</div>
+
+
