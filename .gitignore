@@ -1,0 +1,34 @@
+# Large dataset files — don't upload to GitHub
+Dataset/
+*.csv.bak
+
+# Dashboard generated CSVs (large files) — optional, comment out if you want to include
+# dashboard/master_dataset.csv
+# dashboard/churn_predictions.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temp scripts
+notebooks/test_connection.py
+rerun_model_dashboard.py
+generate_powerbi_screenshots.py

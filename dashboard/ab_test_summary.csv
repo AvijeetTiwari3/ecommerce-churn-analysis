@@ -1,0 +1,11 @@
+Metric,Value
+Control Group Size,"6,296"
+Treatment Group Size,"87,053"
+Control Repeat Rate,1.62%
+Treatment Repeat Rate,3.10%
+Lift (%),+91.37%
+Z-Statistic,6.6488
+P-Value,0.000000
+Statistically Significant,YES
+Extra Repeat Buyers,"1,288"
+Revenue Uplift (BRL),"R$212,775"
