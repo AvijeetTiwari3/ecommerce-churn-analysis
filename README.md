@@ -8,7 +8,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Dashboard-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-2ECC71?style=for-the-badge)
 
-**A production-grade, end-to-end Data Analyst portfolio project built for FAANG-level roles.**
+
 
 [📊 View Dashboard](#-dashboard-preview) • [🔍 SQL Queries](#️-sql-highlights) • [📈 Key Results](#-key-results) • [🚀 Run Locally](#-how-to-run)
 
