@@ -110,7 +110,7 @@ ecommerce-churn-analysis/
 
 ## 🗄️ SQL Highlights
 
-> **8 production-level T-SQL queries demonstrating FAANG-level proficiency**
+> ** 8 production-level T-SQL queries demonstrating enterprise-grade SQL proficiency**
 
 ### Query 1 — Churn Rate using CTE
 ```sql
